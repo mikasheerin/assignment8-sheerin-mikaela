@@ -7,6 +7,7 @@
 
 body {
   background: #f2f2f2;
+  font-family: 'Poppins', sans-serif;
 }
 
 .container {
@@ -94,17 +95,18 @@ section.home-bottom img {
 
 section.home-final {
     clear: both;
-    padding: 85px 55px;
+    padding: 55px;
 }
 
 section.home-final img {
     float: left;
-    padding: 0 45px;
+    padding: 20px 45px;
     box-sizing: border-box;
 }
 
 footer {
   background: black;
+  padding: 20px 0;
 }
 
 footer.container {
